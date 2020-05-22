@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vladi\\Documents\\GitHub\\programacionweb\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL.csproj": {}
+    "D:\\prueba\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vladi\\Documents\\GitHub\\programacionweb\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL.csproj": {
+    "D:\\prueba\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladi\\Documents\\GitHub\\programacionweb\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL.csproj",
+        "projectUniqueName": "D:\\prueba\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL.csproj",
         "projectName": "EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL",
-        "projectPath": "C:\\Users\\vladi\\Documents\\GitHub\\programacionweb\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL.csproj",
-        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladi\\Documents\\GitHub\\programacionweb\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\obj\\",
+        "projectPath": "D:\\prueba\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL.csproj",
+        "packagesPath": "C:\\Users\\STWEN\\.nuget\\packages\\",
+        "outputPath": "D:\\prueba\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\EDWARDSTEWEN-GILBUITRAGO-PROYECTOFINAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\STWEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
